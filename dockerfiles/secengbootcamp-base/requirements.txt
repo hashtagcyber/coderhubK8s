@@ -1,0 +1,9 @@
+aiohttp==3.9.0
+azure-core==1.28.0
+azure-identity==1.13.0
+azure-servicebus==7.11.1
+coverage==7.2.3
+msal==1.23.0
+msal-extensions==1.0.0
+requests==2.31.0
+requests-toolbelt==1.0.0
